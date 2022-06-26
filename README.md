@@ -1,5 +1,5 @@
 
-# keepingNotes
+# keepingNotes <img align="left" width="80" height="80" src=https://user-images.githubusercontent.com/45949870/175825948-17a9101f-f3fe-4b95-b253-a8086b4bf529.png>
 
 The user will be able to create new notes in our keepingNotes app and it will be possible to add image as attachment. 
 
