@@ -1,11 +1,10 @@
 
 # keepingNotes <img align="left" width="80" height="80" src=https://user-images.githubusercontent.com/45949870/175825956-190b76fc-abf8-4e8b-ae9f-8d03cb667d0a.png>
 
+
 The user will be able to create new notes in our keepingNotes app and it will be possible to add image as attachment. 
 
-
-
-![Banner](https://user-images.githubusercontent.com/45949870/175825948-17a9101f-f3fe-4b95-b253-a8086b4bf529.png)
+![Banner](https://user-images.githubusercontent.com/45949870/175826571-80f9b5ce-f404-43c4-bfb6-993fd81dac53.png)
 
 
 ## Run Locally
