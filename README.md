@@ -5,12 +5,13 @@ The user will be able to create new notes in our keepingNotes app and it will be
 
 
 
-![Logo](https://user-images.githubusercontent.com/45949870/175825582-b54da40c-96c7-47d4-9ee9-5f4d5628ecbb.png)
+![Banner](https://user-images.githubusercontent.com/45949870/175825948-17a9101f-f3fe-4b95-b253-a8086b4bf529.png)
 
 
 ## Run Locally
 
-Clone the project
+Clone the project![image](https://user-images.githubusercontent.com/45949870/175825956-190b76fc-abf8-4e8b-ae9f-8d03cb667d0a.png)
+
 
 ```bash
   git clone https://github.com/peterdsp/keepingNotes.git
@@ -33,4 +34,3 @@ Start the app
 ```bash
   Run "app" with ⌃R in Android Studio
 ```
-
